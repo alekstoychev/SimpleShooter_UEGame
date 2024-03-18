@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "SimpleShooter",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "E:\\Game Projects\\Game Engines\\UE_5.2"
+		},
+		{
+			"name": "SimpleShooter_UEGame",
+			"path": "../../../GtiHub/SimpleShooter_UEGame/SimpleShooter_UEGame"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
