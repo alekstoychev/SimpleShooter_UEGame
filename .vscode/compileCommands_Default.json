@@ -1,0 +1,218 @@
+[
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocation.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTService_PlayerLocationIfSeen.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTTask_ClearBlackboardValue.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTTask_Shoot.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\BTTask_Shoot.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\KillEmAllGameMode.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\KillEmAllGameMode.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\ShooterPlayerController.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\ShooterPlayerController.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\Weapon.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Game Projects\\Udemy Courses\\SimpleShooter\\Source\\SimpleShooter\\Weapon.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ],
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Game Projects\\\\Udemy Courses\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\HealthPickup.cpp",
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ]
+    },
+    {
+        "file": "e:\\\\Game Projects\\\\Udemy Courses\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\HealthPickup.h",
+        "directory": "E:\\Game Projects\\Game Engines\\UE_5.2\\Engine\\Source",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "@E:\\Game Projects\\Udemy Courses\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.261.rsp"
+        ]
+    }
+]
